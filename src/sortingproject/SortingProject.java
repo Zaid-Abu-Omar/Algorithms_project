@@ -1,3 +1,25 @@
+/*
+ * Sorting Algorithms Benchmark Project
+ *
+ * Team members:
+ * - Ibraheem Mahmoud
+ * - Zaid Abu Omar
+ *
+ * Contributions:
+ * - Ibraheem Mahmoud:
+ *   - Insertion Sort (insertionSort)
+ *   - Merge Sort (mergeSort + merge)
+ *   - generateRandomArray
+ *   - generateFewUniqueArray
+ *
+ * - Zaid Abu Omar:
+ *   - Heap Sort (heapSort + heapify)
+ *   - QuickSort (quickSort + partition)
+ *   - Randomized QuickSort (randomizedQuickSort + randomizedPartition)
+ *   - generateReverseSortedArray
+ *   - generateSortedArray
+ */
+
 package sortingproject;
 
 import java.util.Random;
